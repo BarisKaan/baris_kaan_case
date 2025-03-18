@@ -1,4 +1,5 @@
 baris_kaan_case
+
 Insider Selenium Task
 
 This project contains automated tests for the Insider website.
